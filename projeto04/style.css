@@ -1,0 +1,56 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  font-family: 'Epilogue', sans-serif;
+  width: 100vw;
+  height: 100vh;
+  padding: 23px 63px;
+}
+.container p, a {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 32px;
+}
+.container h1, span{
+  font-weight: 800;
+}
+.container h1{
+  font-size: 40px;
+  line-height: 48px;
+}
+.container h1, a, span, li{
+  color: #090039;
+}
+.container p {
+  color: rgba(10, 0, 57, 0.64);
+}
+.container ul{
+  list-style: none;
+}
+span{
+  font-size: 72px;
+  line-height: 80px;
+}
+.container ul li{
+font-weight: 700;
+font-size: 24px;
+line-height: 32px;
+display: flex;
+gap: 38px;
+align-items: center;
+text-align: left;
+
+}
+main{
+  width: 329px;
+  height: 744px;
+}
+.container{
+
+}
+a{
+
+}
